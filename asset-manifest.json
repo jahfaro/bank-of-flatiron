@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jahfaro/bank-of-flatiron.git1./static/css/main.3e11ed83.css",
+    "main.js": "/jahfaro/bank-of-flatiron.git1./static/js/main.6a74dac3.js",
+    "static/js/453.4773ad0a.chunk.js": "/jahfaro/bank-of-flatiron.git1./static/js/453.4773ad0a.chunk.js",
+    "index.html": "/jahfaro/bank-of-flatiron.git1./index.html",
+    "main.3e11ed83.css.map": "/jahfaro/bank-of-flatiron.git1./static/css/main.3e11ed83.css.map",
+    "main.6a74dac3.js.map": "/jahfaro/bank-of-flatiron.git1./static/js/main.6a74dac3.js.map",
+    "453.4773ad0a.chunk.js.map": "/jahfaro/bank-of-flatiron.git1./static/js/453.4773ad0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e11ed83.css",
+    "static/js/main.6a74dac3.js"
+  ]
+}
